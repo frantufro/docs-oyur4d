@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frantufro.github.io/docs-oyur4d/sitemap.xml
